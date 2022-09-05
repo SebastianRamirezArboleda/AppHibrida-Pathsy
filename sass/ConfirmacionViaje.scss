@@ -1,0 +1,43 @@
+/*--------------- Codigo Confirmacion Viaje--------------*/
+
+.Confirmacion_body{
+    width: 310px;
+    height: 660px;
+    background-color: #a3a3a3;
+}
+
+.confirmacion-imgs{
+
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+
+.Confirmacion_body .personajes_imagenes {
+    width: 46px;
+    height: 60px;
+    position: relative;
+}
+.Confirmacion_body .Boton_continuar{
+    text-decoration:none;
+    color:#333333;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#7eff94;
+    border-style: none;
+    border-radius:30px;
+}
+
+.Confirmacion_body .Boton_cancelar{
+    text-decoration:none;
+    color:#333333;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#7eff94;
+    border-style: none;
+    border-radius:30px;
+}
