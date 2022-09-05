@@ -22,3 +22,6 @@ Vista en la que se visualiza la información del equipo de programadores que dis
 # Integrantes del equipo
 - Sebastian Ramirez
 - Mateo Steer
+
+vista de prototipo:
+https://www.figma.com/file/QQoVZCdpTnMcnsP6g3F04L/Pathsy?node-id=0%3A1
