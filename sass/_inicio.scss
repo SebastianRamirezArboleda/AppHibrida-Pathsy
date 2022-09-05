@@ -1,0 +1,36 @@
+/*-------- Codigo  botones de index-----*/
+.index_body .Boton_Logueo{
+  text-decoration:none;
+  color:#333333;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:40px;
+  padding-right:40px;
+  background-color:#7eff94;
+  border-style: none;
+  border-radius:30px;
+}
+.index_body .Boton_Creditos{
+  text-decoration:none;
+  color:#333333;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:40px;
+  padding-right:40px;
+  background-color:#7eff94;
+  border-style: none;
+  border-radius:30px;
+}
+
+/*Codigo del body del index*/
+
+.index_body{
+  width: 310px;
+  height: 660px;
+  background-color: #a3a3a3;
+}
+.index_body .titulo_index{
+  width: 300px;
+  height: 380px;
+  position: relative;
+}
