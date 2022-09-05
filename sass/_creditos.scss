@@ -1,0 +1,53 @@
+.creditos_body {
+    position: center;
+    width: 510px;
+    height: 600px;
+    background: #a3a3a3;
+}
+.creditos_body .creditos_imagenes {
+    position: absolute;
+}
+.creditos_body .creditos_imagenes_titulo {
+    width: 55px;
+    height: 75px;
+    padding-top: 1%;
+    left: 145px;
+}
+.creditos_body .creditos_titulo {
+    margin-left: 43%;
+    padding-top: 1%;
+    font-family: fantasy;
+    left: 220px;
+}
+.creditos_body .creditos_contenido {
+    margin-top: 4%;
+    position: relative;
+}
+
+.creditos_body .creditos_texto_central {
+    position: relative;
+    margin-left: 32%;
+    padding-right: 30%;
+    text-align: center;
+    left: -10px;
+    top: 20px;
+}
+.creditos_body .creditos_botones {
+    position: relative;
+    border-radius: 30%;
+    font-family: cursive;
+    font-size: 15px;
+    background-color: #ffffff;
+    transition-duration: .4s;
+    left: 190px;
+    top: 20px;
+}
+.creditos_body .creditos_botones:hover {
+    background-color: #c2b9ba;
+}
+.creditos_body .creditos_imagenes_moneda {
+    width: 42px;
+    height: 42px;
+    left: 245px;
+    top: 270px;
+}
