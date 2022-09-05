@@ -12,7 +12,7 @@ Contiene el registro del aplicativo en donde los usuarios se loguean
 Aca se selecciona el personaje con el que se va a jugar el nivel. Puede ser Mario, Luigi o Toad
 ## Pasajero.html
 Aca se pueden unir a carreras existentes
-## Seleccionar Rol
+## SeleccionarRol.html
 Son las vistas básicas que soportan los scripts en los que se arma el juego. Estos scripts usan una libreria llamada kaboom.js que construye el juego y le da vida
 ## ConfirmacionViaje.html
 Pantalla Final del programa que da informacion de la carrera que fue seleccionada o creada
