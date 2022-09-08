@@ -1,5 +1,5 @@
 {
-  "name": "apphibrida_marioranked",
+  "name": "apphibrida_pathsy",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarlosUribe32/AppHibrida_MarioRanked.git"
+    "url": "git+https://github.com/SebastianRamirezArboleda/AppHibrida-Pathsy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CarlosUribe32/AppHibrida_MarioRanked/issues"
+    "url": "https://github.com/SebastianRamirezArboleda/AppHibrida-Pathsy#readme"
   },
-  "homepage": "https://github.com/CarlosUribe32/AppHibrida_MarioRanked#readme",
+  "homepage": "https://github.com/SebastianRamirezArboleda/AppHibrida-Pathsy#readme",
   "devDependencies": {
     "@capacitor/cli": "^3.4.3",
     "dart-sass": "^1.25.0",
